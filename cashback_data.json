@@ -1,0 +1,369 @@
+{
+    "earningsOverview": {
+        "totalCashbackEarned": 86307,
+        "currentCashbackBalance": 37143,
+        "completedBookings": 150
+    },
+    "cashbackHistory": [
+        {
+            "cashbackId": "0c6a4c41",
+            "transactionDate": "2024-05-15",
+            "transactionCost": 80642,
+            "amountEarned": 3231,
+            "bookingDetails": {
+                "repairId": "TVH064",
+                "repairType": "car inspection",
+                "bookingId": "AUNGAYT4"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "fa79e873",
+            "transactionDate": "2024-06-20",
+            "transactionCost": 70460,
+            "amountEarned": 3886,
+            "bookingDetails": {
+                "repairId": "CKB340",
+                "repairType": "vehicle maintenance",
+                "bookingId": "FAJ766OK"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "44d5ccc2",
+            "transactionDate": "2024-01-18",
+            "transactionCost": 25699,
+            "amountEarned": 1596,
+            "bookingDetails": {
+                "repairId": "APL780",
+                "repairType": "electrical maintenance",
+                "bookingId": "5BDQ2552"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "4dd93e70",
+            "transactionDate": "2024-07-08",
+            "transactionCost": 9787,
+            "amountEarned": 584,
+            "bookingDetails": {
+                "repairId": "GQD000",
+                "repairType": "wheel balancing (RM 20)",
+                "bookingId": "BZ85E4VF"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "0d840ec9",
+            "transactionDate": "2023-10-31",
+            "transactionCost": 79811,
+            "amountEarned": 550,
+            "bookingDetails": {
+                "repairId": "PRE097",
+                "repairType": "tyre change (v)",
+                "bookingId": "GD03J86I"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "322ac785",
+            "transactionDate": "2023-09-24",
+            "transactionCost": 59208,
+            "amountEarned": 2732,
+            "bookingDetails": {
+                "repairId": "SBX898",
+                "repairType": "wheel balancing (rm 19)",
+                "bookingId": "BJX9RG6H"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "0b9ea1d5",
+            "transactionDate": "2023-12-14",
+            "transactionCost": 29407,
+            "amountEarned": 2702,
+            "bookingDetails": {
+                "repairId": "ZEI959",
+                "repairType": "anti rust",
+                "bookingId": "2ZMOXE7J"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "a1da26fa",
+            "transactionDate": "2023-09-14",
+            "transactionCost": 49924,
+            "amountEarned": 3928,
+            "bookingDetails": {
+                "repairId": "ECX860",
+                "repairType": "washing",
+                "bookingId": "HHUIIVEH"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "b02ffc59",
+            "transactionDate": "2024-01-25",
+            "transactionCost": 98461,
+            "amountEarned": 2881,
+            "bookingDetails": {
+                "repairId": "ILP587",
+                "repairType": "gear oil topping",
+                "bookingId": "0ZG6M422"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "fa0509ce",
+            "transactionDate": "2024-04-07",
+            "transactionCost": 90660,
+            "amountEarned": 7763,
+            "bookingDetails": {
+                "repairId": "CBJ183",
+                "repairType": "interior change",
+                "bookingId": "5H1WN5V0"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "ad76dbbd",
+            "transactionDate": "2024-01-22",
+            "transactionCost": 66096,
+            "amountEarned": 1584,
+            "bookingDetails": {
+                "repairId": "NIM145",
+                "repairType": "oil filter change",
+                "bookingId": "EE6EESUN"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "a1c42cf6",
+            "transactionDate": "2023-12-08",
+            "transactionCost": 8311,
+            "amountEarned": 723,
+            "bookingDetails": {
+                "repairId": "DLX106",
+                "repairType": "car wash",
+                "bookingId": "9IFA9NV3"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "1c50dad7",
+            "transactionDate": "2024-04-14",
+            "transactionCost": 6053,
+            "amountEarned": 586,
+            "bookingDetails": {
+                "repairId": "HIS178",
+                "repairType": "rear end alignment",
+                "bookingId": "1JYFG7HO"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "3da6f0fd",
+            "transactionDate": "2023-12-31",
+            "transactionCost": 82213,
+            "amountEarned": 5840,
+            "bookingDetails": {
+                "repairId": "UHV780",
+                "repairType": "anti rust",
+                "bookingId": "LE6W72SN"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "11358ce1",
+            "transactionDate": "2024-04-07",
+            "transactionCost": 21112,
+            "amountEarned": 1315,
+            "bookingDetails": {
+                "repairId": "EWD914",
+                "repairType": "general servicing",
+                "bookingId": "D4TCY8BN"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "dab67fa3",
+            "transactionDate": "2023-10-03",
+            "transactionCost": 5553,
+            "amountEarned": 553,
+            "bookingDetails": {
+                "repairId": "CQC988",
+                "repairType": "electrical maintenance",
+                "bookingId": "A1WSZZ9L"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "ef8999a5",
+            "transactionDate": "2023-10-28",
+            "transactionCost": 7441,
+            "amountEarned": 518,
+            "bookingDetails": {
+                "repairId": "DDX896",
+                "repairType": "tracking",
+                "bookingId": "4JIJQ1TC"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "4977bb5a",
+            "transactionDate": "2024-04-05",
+            "transactionCost": 26059,
+            "amountEarned": 795,
+            "bookingDetails": {
+                "repairId": "RYB280",
+                "repairType": "washing",
+                "bookingId": "ZRVHPWQ4"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "bf2e7cf3",
+            "transactionDate": "2024-03-14",
+            "transactionCost": 78903,
+            "amountEarned": 3030,
+            "bookingDetails": {
+                "repairId": "UBA348",
+                "repairType": "brake pad",
+                "bookingId": "6KM3FBAH"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "b3b53db8",
+            "transactionDate": "2024-01-23",
+            "transactionCost": 65356,
+            "amountEarned": 4367,
+            "bookingDetails": {
+                "repairId": "ECM970",
+                "repairType": "greasing",
+                "bookingId": "EA41I7DB"
+            },
+            "cashbackState": "used"
+        },
+        {
+            "cashbackId": "6cf2d599",
+            "transactionDate": "2023-10-08",
+            "transactionCost": 18469,
+            "amountEarned": 790,
+            "bookingDetails": {
+                "repairId": "RRB345",
+                "repairType": "consultation",
+                "bookingId": "IOAM7FCO"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "facec00d",
+            "transactionDate": "2023-11-18",
+            "transactionCost": 35907,
+            "amountEarned": 3132,
+            "bookingDetails": {
+                "repairId": "SDH313",
+                "repairType": "vacuum",
+                "bookingId": "KXYG20LR"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "1d1778ab",
+            "transactionDate": "2023-12-08",
+            "transactionCost": 93567,
+            "amountEarned": 7296,
+            "bookingDetails": {
+                "repairId": "CTB930",
+                "repairType": "anti rust",
+                "bookingId": "6IINKC3U"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "ad7798ca",
+            "transactionDate": "2023-09-12",
+            "transactionCost": 91197,
+            "amountEarned": 8106,
+            "bookingDetails": {
+                "repairId": "KHE431",
+                "repairType": "oil filter change",
+                "bookingId": "TXFRIO9P"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "109d6b1a",
+            "transactionDate": "2024-04-15",
+            "transactionCost": 80336,
+            "amountEarned": 7413,
+            "bookingDetails": {
+                "repairId": "UXK916",
+                "repairType": "rear end alignment",
+                "bookingId": "28IK50H4"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "d9850658",
+            "transactionDate": "2024-01-28",
+            "transactionCost": 10389,
+            "amountEarned": 923,
+            "bookingDetails": {
+                "repairId": "QAO589",
+                "repairType": "tyre swap",
+                "bookingId": "GXNZKROE"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "9ea937dd",
+            "transactionDate": "2024-06-12",
+            "transactionCost": 48756,
+            "amountEarned": 700,
+            "bookingDetails": {
+                "repairId": "ZYG162",
+                "repairType": "greasing",
+                "bookingId": "8GRWQM16"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "7c9c3173",
+            "transactionDate": "2023-12-01",
+            "transactionCost": 59629,
+            "amountEarned": 3338,
+            "bookingDetails": {
+                "repairId": "FES226",
+                "repairType": "car inspection",
+                "bookingId": "OX25GJGP"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "cb1bd026",
+            "transactionDate": "2024-07-27",
+            "transactionCost": 99108,
+            "amountEarned": 2502,
+            "bookingDetails": {
+                "repairId": "OQU312",
+                "repairType": "interior change",
+                "bookingId": "A2EJ9GXO"
+            },
+            "cashbackState": "not used"
+        },
+        {
+            "cashbackId": "fec58fc4",
+            "transactionDate": "2023-09-09",
+            "transactionCost": 82774,
+            "amountEarned": 2943,
+            "bookingDetails": {
+                "repairId": "WCR350",
+                "repairType": "consultation",
+                "bookingId": "I80DZLOG"
+            },
+            "cashbackState": "not used"
+        }
+    ]
+}
